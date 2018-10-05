@@ -1,0 +1,15 @@
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe.config
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.exe
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageEditor.pdb
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\FSharp.Core.dll
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.dll
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.pdb
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\bin\Debug\PPMImageLibrary.xml
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csprojResolveAssemblyReference.cache
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Form1.resources
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.Properties.Resources.resources
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.GenerateResource.cache
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CoreCompileInputs.cache
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.csproj.CopyComplete
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.exe
+D:\C Programs\CS 341\PPMImageEditor\PPMImageEditor\obj\Debug\PPMImageEditor.pdb

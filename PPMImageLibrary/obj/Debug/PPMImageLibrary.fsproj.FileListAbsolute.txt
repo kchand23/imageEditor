@@ -1,0 +1,7 @@
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.XML
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.dll
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\bin\Debug\PPMImageLibrary.pdb
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\bin\Debug\FSharp.Core.dll
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.fsproj.CopyComplete
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.dll
+D:\C Programs\CS 341\PPMImageEditor\PPMImageLibrary\obj\Debug\PPMImageLibrary.pdb
